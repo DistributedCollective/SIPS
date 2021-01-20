@@ -1,0 +1,10 @@
+### Proposal 2 - Issuance of cSOV to community members ###
+
+Resolved:
+
+1. The Sovryn protocol will issue up to 1,800,000 cSOV tokens
+2. cSOV tokens will provide a pre-order mechanism for community members to stake funds in order to receive the right to SOV tokens, on a 1:1 basis with cSOV tokens subject to a vote by SOV holders.
+3. These cSOV tokens will be distributed to stakers who have the early community NFTS
+4. The required stake per cSOV token will be 2750 Satoshis
+5. Any cSOV tokens converted to SOV will be subject to 10 months linear vesting (with 1/10 of the total amount released on a monthly basis) from the date of the end of the SOV public sale. 
+6. Any cSOV holder that does not actively convert their cSOV to SOV within a two month period after TGE will be able to receive their staked funds. 
