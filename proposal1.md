@@ -1,0 +1,13 @@
+### Proposal 1 - Assign Multi-sig Addresses for Sovryn Bitcoin Treasury ###
+
+Resolved:
+
+1. The Sovryn protocol will assign five signatory addresses to form a 3of5 Bitcoin multisig wallet. 
+2. The wallet will hold the Sovryn Bitcoin treasury.
+3. Future transactions from the Treasury require approval via a simple Sovryn vote.
+4. The signatory public keys are:
+* xpub661MyMwAqRbcGsSj8ZG4MkLEKmdELnUTYPVnxmMa58WgS9mBYeQCjDSfaHFsYE6ZFXNRUEPdJoxWKuxMsjbJNVbK4uCydX21V7SYsUauXC7
+* xpub661MyMwAqRbcFcLDoxkxYtnhQoUc6a3zwKRNaFPBwF7mwtzMv14eL24c5bT1ZM9MsyFxZSc6sdpAvZWEiRrkgaW8VaYudsLv7JYY6mzkL5T
+* xpub661MyMwAqRbcGsbuF22FVyTRZYGCGFtsCvyboHRhuHi4gRqyMrvwo7BxQkePWXVMzkG8eHuT6QrWBudN9mDMS84JboTU28nETWg6kTNQLuR
+* xpub661MyMwAqRbcF7gpQCcphWUaZcfYBSHym6rHGGsW1KwDer2j3XNwZQraMu25rnUnXqmqZ6nERR2KE9YdCrvzxoZdvWrGujsxEtPL5Vgid9R
+* xpub661MyMwAqRbcG7KrofqGrRUPw2PET8cjCWra3zZUfh3a6TFNJ4Y9PmxnW9X4KSDRywRtZ1VJSS9yGZ4TjtLM5dSquBu8gUnvRYZwUBPrbUA
