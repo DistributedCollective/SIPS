@@ -3,7 +3,7 @@ SIP: N/A
 Title: Title
 Author: Name (GitHub username)
 Status: Draft
-Track: Finance
+Track: Treasury
 Created: YYYY-MM-DD
 ---
 
