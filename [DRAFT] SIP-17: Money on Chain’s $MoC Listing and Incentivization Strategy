@@ -1,0 +1,56 @@
+---
+SIP: N/A
+Title: Money on Chain's $MoC Listing and Incentivization Strategy
+Author: Name (GitHub username)
+Status: Draft
+Track: Treasury
+Created: YYYY-MM-DD
+---
+
+# SIP-X: Money on Chain's $MoC Listing and Incentivization Strategy
+
+## Background
+
+Money on Chain (MOC) is an RSK-based DeFi platform with a stablecoin, HODL token (BPro), orderbook DEX (TEX), leveraging mechanism, etc. which empowers Bitcoiners to improve the performance of their assets while also retaining full control of their private keys. Money on Chain has 2 tokens listed on the Sovryn DEX: DoC, a Bitcoin-backed stablecoin, and BPro, a token for capitalizing on Bitcoin’s volatility.
+
+## Proposal
+
+- Listing Money on Chain’s $MoC token on the Sovryn DEX.  
+- Sovryn’s treasury to bootstrap with 2.5 RBTC the MoC/RBTC AMM pool. Equivalent amount in $MoC to be provided by the Money on Chain community.  
+- $37,500 in $SOV to reward $DoC lenders after 30 days.  
+- $37,500 in $MoC to reward liquidity providers in the DoC/RBTC AMM pool.  
+
+The $MoC token brings governance to Money On Chain’s self contained protocol which includes DoC (the first USD stable coin collateralized with Bitcoin), BPro (a HODL and earn token with unique benefits), BTCx (an amplified leveraging mechanism), and TEX, a decentralized orderbook exchange.
+
+The MoC token enables:
+
+- Vote and Veto of platform updates and parameters.  
+
+- Staking for rewards and fees from users of the platform.  
+
+- Discounts when paying the fees with MoC.  
+
+## Motivation
+
+Money on Chain is a partner project of Sovryn. Two of its products, the DoC Bitcoin-backed stablecoin, and BPro, a token designed for BTC holders that allows users to earn on their Bitcoin position, gaining free leverage.
+
+Incorporating Money on Chain’s DAO token, $MoC, will further align both initiatives in bringing more DeFi products and features to Sovryn users.
+
+DoC is a decentralized Bitcoin-backed stablecoin with greater permissionless features than that of USDT, making it deserving of incentivization for liquidity on our platform.
+
+The goal is to incentivize $1.5M in DoC across the RBTC/DoC AMM as well as the lending pool.
+
+## Proposed changes
+
+- List MoC Token Contract Address on the Sovryn DEX: `0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10`  
+  - Audit report: https://github.com/money-on-chain/Audits  
+
+- Exchequer provides 2.5 RBTC in liquidity with the equivalent in MoC in the MoC/RBTC AMM by Money On Chain Community.  
+
+- Exchequer retroactively rewards $37,500 worth of SOV to DoC lenders over a 30-day liquidity mining event, while the equivalent value in MoC will be provided to DoC/RBTC liquidity providers.  
+
+- If over 30 days, DoC liquidity providers provide $1.5M in DoC in our system, they will be retroactively paid 5% in either SOV or MoC, as applicable.  
+
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
