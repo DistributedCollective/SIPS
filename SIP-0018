@@ -1,0 +1,48 @@
+Introduction
+I hereby submit SIP-0018 to leverage the upcoming Sovryn Origins platform as a launchpad to do the first token sale in Sovryn for BabelFish. We see the Origins platform as the first Bitcoin layer-2 IDO platform, and would like to follow in Sovryn’s moon boot footsteps to showcase this, ideally setting a precedent for future teams seeking to launch Bitcoin DeFi projects.
+
+No platform exists today to support projects seeking to launch DeFi projects on Bitcoin. Sovryn is uniquely positioned to provide this launchpad as demonstrated by the successful Origin sale of SOV. The intention of putting forth this SIP for a Bitocracy vote is to permit BabelFish’s use of the Origins platform to perform a token sale. (Additional details about the Sovryn Origins platform will be released by the Sovryn team at a later date.)
+
+Reasoning
+If this vote passes and BabelFish conducts a successful token sale, it would demonstrate the Sovryn Origins platform’s capability to serve as a launchpad for future Bitcoin DeFi projects.
+
+This could bring an inflow of innovative decentralized product experimentation to be bootstrapped on Sovryn and initiate a virtuous cycle of innovation and a flywheel effect for SOV.
+
+Background
+BabelFish aims to be the first money lego built on Sovryn with the mission of bringing deep stablecoin liquidity to the ecosystem. This will also be convenient in terms of UI/UX inside Sovryn’s portfolio, as users won’t have to choose between a growing myriad of USD-pegs, instead, all USD-pegs can be deposited and withdrawn 1:1 via a single xUSD.
+
+Tokenomics
+The purpose of FISH tokens is to jumpstart its DAO. This is a collective experiment to remake and decentralize money and needs to be managed by an active community of participants akin to the example being set by Sovryn. For a comprehensive view of BabelFish’s token emission schedule, see here 107 (subject to change).
+
+We propose a capped initial token sale of 12.5% of the FISH supply. In addition, Sovryn will receive 2.5% to provide liquidity to the DAMM, and 1% will be airdropped to stakers pro-rata. Ultimately, stablecoin users who use BabelFish to bring liquidity to Sovryn will also earn FISH rewards for governance.
+
+Token Sale Day One (Exclusive to Premium BCW members):
+FISH price: $0.11
+Tokens for sale: 32,508,000
+Percent of supply: 7.74%
+Vesting: 10 months linear
+Wallet limit: $2,000
+Accepting: RBTC
+
+Token Sale Day Two (Public):
+FISH price: $0.18
+Tokens for sale: 20,000,000
+Percent of supply: 4.76%
+Vesting: 10 month linear with 50% immediately vested
+Limit per wallet: $3,000
+Accepting: RBTC
+
+Airdrop to Sovryn’s Governance Stakers:
+1% pro-rata to SOV stakers by weight
+
+Listing on Sovryn AMM:
+Tokens for Sovryn: 10,500,000
+Percent of supply: 2.5%
+Pool to be created: FISH/RBTC
+
+Additional Links
+Website
+Discord 
+Telegram
+Twitter
+YouTube
