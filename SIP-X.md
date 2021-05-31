@@ -1,0 +1,53 @@
+---
+SIP: N/A
+Title: Exchequer Committee 2021 Budget
+Author: Max Shapiro (@maxshapiro23)
+Status: Draft
+Track: Treasury
+Created: 2021-05-31
+---
+
+# SIP-X: Exchequer Committee 2021 Budget   
+
+## Use of funds
+
+The Exchequer Committee has approved the following budget through the end of the calendar year which will be paid from Sovryn’s Treasury to accelerate the development and growth of the application in alignment with the Sovryn Roadmap published in the [Black Paper](https://wiki.sovryn.app/en/technical-documents/black-paper) in January 2021.
+
+_**Contributors** (please note that the below figures are represented on a monthly basis)_
+
+|	**Circle**  | **Active** | **Open Positions** | **Total** |
+| ------------|:----------:|:------------------:|:---------:|
+| Development | $235k      | $115k              | **$350k** |
+| Community   | $45k       | $25k               | **$70k**  |
+| Creative    | $30k       | $5k                | **$35k**  |
+| Marketing   | $25k       | $20k               | **$45k**  |
+| Operations  | $60k       | $40k               | **$100k** |
+| **Total**   | **$395k**  | **$205k**          | **$600k** |
+
+_It should also be noted that there are roughly **70 active contributors across** all 5 circles and roughly [**40 open positions**](https://wiki.sovryn.app/en/open-positions/contribute-developing-sovryn#open-positions) currently available._
+
+_**Other Expenses** (please note that recurring figures are represented on a monthly basis)_
+
+|	**Circle**  | **Recurring** | **One-time** | **Total**   |
+| ------------|:-------------:|:------------:|:-----------:|
+| Development | $110k         | $0k          | **$110k**   |
+| Community   | $1k           | $25k         | **$26k**    |
+| Creative    | $1k           | $0k          | **$1k**     |
+| Marketing   | $100k         | $30k         | **$130k**   |
+| Operations  | $60k          | $1,010k      | **$1,070k** |
+| **Total**   | **$272k**     | **$1,065k**  | **$1,337k** |
+
+Excluding one-time expenses, the budget proposal is for **$872k in recurring monthly expenses** of which **2/3 is being spent on contributors**. This monthly figure **annualized comes to ~$10.5m** on a recurring basis, if we include one-time expenses then the annualized figure is ~$11.6m.
+
+It should also be noted that it is Sovryn’s intention to come in well below budget at the end of the budget period, December 31, 2021. Prior to the end of this budget period, the Exchequer Committee will submit an additional budget SIP to Bitocracy for calendar year 2022.
+
+## Appendix A - Contributor Spend by Circle
+
+[Insert graph image here]()
+
+## Appendix B - Treasury Snapshot & Runway Overview
+
+Sovryn’s treasury is held primarily in Bitcoin with a **current USD equivalent of balance ranging from $15-20m**. This does not include SOV that can be used as compensation for contributors or payments for service providers. Conservatively speaking, Sovryn’s treasury (excluding SOV considerations) would provide for 2+ years of runway which the Exchequer Committee believes is sufficient in order to fully develop the platform broadly in accordance with the Black Paper.
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
