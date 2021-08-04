@@ -136,7 +136,7 @@ From the Final Review until the end of the Sovryn Vote, SIP Editors SHOULD updat
 Sovryn Guardians are members of the Guardian Multisig, who are appointed by the founding Sovryn team to protect the protocol against malicious proposals. The Guardian Multisig has the exclusive authority to veto onchain proposals submitted to the Sovryn Governance contract.
 
 ### Sovryn Voters
-Sovryn Voters are holders of the SOV token who have staked their SOV in the Sovryn Staking contract. The voting power of Sovryn Voters is determined by the number of SOV they have staked and the length of time their SOV is staked for.
+Sovryn Voters are holders of the SOV token who have staked their SOV in the Sovryn Staking contract. The voting power of Sovryn Voters is determined by the number of SOV they have staked and the length of time their SOV is staked for. More information about how voting power is calculated can be found [here](https://wiki.sovryn.app/en/governance/about-sovryn-governance). Sovryn Voters can find more information about staking and how to vote on SIPs [here](https://wiki.sovryn.app/en/governance/staking-vesting-voting).  
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
