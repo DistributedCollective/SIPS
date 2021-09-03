@@ -50,6 +50,11 @@ Proposals made to the Issuance track SHOULD be used to increase the total supply
   * Creative Commons Zero (CC-0)  
   * MIT  
 
+**Parameter**  
+Proposals made to the Parameter track SHOULD change one or more of the Sovryn smart contract parameters. The proposal SHOULD include information about both the current parameter (if any) and the proposed change to the parameter. All Parameter track proposals MAY include a link to an analysis of the specified parameter change(s).
+
+* All parameter modifications and associated documentation introduced by a Parameter track proposal SHOULD be published under the same license as the smart contract on which the parameter is being modified.
+
 **Proclamation**  
 Proposals made to the Proclamation track SHOULD be used to make a statement on behalf of Sovryn and can say whatever the author(s) want.
 
