@@ -17,6 +17,8 @@ If approved, this proposal would enable SOV holders to use their SOV as collater
 
 Adding SOV as a collateral asset in the loan protocol would give SOV holders a way to gain liquidity from their SOV holdings without having to sell their SOV. A side effect of this is that it would enable SOV holders to go "leverage long" SOV by borrowing against their SOV collateral and using the proceeds of the loan to buy more SOV.
 
+A 300% collateralization ratio is proposed due to the relative immaturity and volatility of SOV as an asset. This is compared to the 150% collateralization required when using RBTC as collateral.
+
 ## Proposed change
 
 Add SOV as collateral when borrowing, with the following parameters:
