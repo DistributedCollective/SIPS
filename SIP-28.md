@@ -1,0 +1,30 @@
+---
+SIP: 28
+Title: Add SOV as collateral for borrowing
+Author: John Light (@john-light)
+Status: Draft
+Track: Parameter
+Created: 2021-09-03
+---
+
+# SIP-28: Add SOV as collateral for borrowing
+
+## Description
+
+If approved, this proposal would enable SOV holders to use their SOV as collateral when borrowing using Sovryn.
+
+## Motivation
+
+Adding SOV as a collateral asset in the loan protocol would give SOV holders a way to gain liquidity from their SOV holdings without having to sell their SOV. A side effect of this is that it would enable SOV holders to go "leverage long" SOV by borrowing against their SOV collateral and using the proceeds of the loan to buy more SOV.
+
+A 300% collateralization ratio is proposed due to the relative immaturity and volatility of SOV as an asset. This is compared to the 150% collateralization required when using RBTC as collateral.
+
+## Proposed change
+
+Add SOV as system-wide collateral for borrowing any asset supported on Sovryn, with the following parameters:
+- SOV token contract address: `0xefc78fc7d48b64958315949279ba181c2114abbd`  
+- Collateralization rate: 300%  
+- Oracle: Sovryn SOV/RBTC AMM pool TWAP `0x756d751d09B67d8Fc98be892431926Ff3F70a991`  
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
