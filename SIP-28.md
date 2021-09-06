@@ -2,7 +2,7 @@
 SIP: 28
 Title: Add SOV as collateral for borrowing
 Author: John Light (@john-light)
-Status: Draft
+Status: Ready to vote
 Track: Parameter
 Created: 2021-09-03
 ---
