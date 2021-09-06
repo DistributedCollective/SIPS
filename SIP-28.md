@@ -21,10 +21,10 @@ A 300% collateralization ratio is proposed due to the relative immaturity and vo
 
 ## Proposed change
 
-Add SOV as collateral when borrowing, with the following parameters:
+Add SOV as system-wide collateral for borrowing any asset supported on Sovryn, with the following parameters:
 - SOV token contract address: `0xefc78fc7d48b64958315949279ba181c2114abbd`  
 - Collateralization rate: 300%  
-- Oracle: Sovryn SOV/RBTC AMM pool TWAP  
+- Oracle: Sovryn SOV/RBTC AMM pool TWAP `0x756d751d09B67d8Fc98be892431926Ff3F70a991`  
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
