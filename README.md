@@ -29,8 +29,9 @@ Before you spend time working on a proposal, you SHOULD make sure the proposal c
 
 There are five tracks that a SIP can be categorized into. Select the one you think is best for your SIP:
 
-* Contract: proposals for modifying one or more Sovryn smart contracts  
+* Contract: proposals for modifying the source code of one or more Sovryn smart contracts  
 * Issuance: proposals for increasing the total supply of SOV using the SOV token contract  
+* Parameter: proposals for modifying one or more parameters on one or more Sovry smart contracts  
 * Proclamation: proposals for making a public statement on behalf of Sovryn  
 * Treasury: proposals for transferring funds from the Sovryn Treasury  
 
