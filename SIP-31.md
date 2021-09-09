@@ -1,5 +1,5 @@
 ---
-SIP: N/A
+SIP: 31
 Title: Splitting AMM fees with stakers
 Author: John Light (@john-light)
 Status: Draft
@@ -7,7 +7,7 @@ Track: Parameter
 Created: 2021-09-07
 ---
 
-# SIP-C: Splitting AMM fees with stakers
+# SIP-31: Splitting AMM fees with stakers
 
 ## Description
 
