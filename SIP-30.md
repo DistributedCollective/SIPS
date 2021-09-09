@@ -1,5 +1,5 @@
 ---
-SIP: N/A
+SIP: 30
 Title: Concentrating staking revenues
 Author: John Light (@john-light)
 Status: Draft
@@ -7,7 +7,7 @@ Track: Contract
 Created: 2021-09-07
 ---
 
-# SIP-B: Concentrating staking revenues
+# SIP-30: Concentrating staking revenues
 
 ## Description
 
