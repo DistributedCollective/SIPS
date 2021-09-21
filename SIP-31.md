@@ -36,30 +36,17 @@ To assess the impact of the choice to exclude Token -> RBTC swaps from fee split
 
 1. RBTC in (RBTC -> Token)  
 2. RBTC out (Token -> RBTC)  
-3. Composites (Token -> Token)  
-
-However, composite swaps are made of two equal parts, with fees on each part:
-
-- Part 1: Token A -> RBTC  
-- Part 2: RBTC -> Token B  
-
-Therefore the final breakdown of the swap categories is:
-
-1. RBTC in (RBTC -> Token)  
-2. RBTC out (Token -> RBTC)  
-3. Composite Part 1 (Token A -> RBTC)  
-4. Composite Part 2 (RBTC -> Token B)
+3. Composite (Token -> Token)  
 
 This is how the fee split breaks down as implemented in this SIP:
 
-|	Category          | Volume (BTC) | %   | Fee split  |
-| ----------------- |:------------:|:---:|:----------:|
-| RBTC in           |	1032.9719    | 36% | ✅         |
-| RBTC out          |	989.1421     | 34% | ❌         |
-| Composite Part 1  |	432.1512     | 15% | ❌         |
-| Composite Part 2  |	432.1512     | 15% | ✅         |
+|	Category  | Volume (BTC) | %   | Fee split  |
+| --------- |:------------:|:---:|:----------:|
+| RBTC in   |	1032.9719    | 42% | ✅         |
+| RBTC out  |	989.1421     | 40% | ❌         |
+| Composite |	432.1512     | 18% | ✅         |
 
-In summary, according to the last 30 days of swap data, the fee split implemented in this split would have resulted in ~51% of the swap volume being eligible for the fee split.
+In summary, according to the last 30 days of swap data, the fee split implemented in this split would have resulted in ~40% of the swap volume being excluded and ~60% of the swap volume being included for eligiblity for the fee split.
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
