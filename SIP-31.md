@@ -27,7 +27,7 @@ It is planned that a SIP will be introduced in the near future to update the AMM
 
 Due to the limitations of the existing swap module, several alternatives were considered for implementing the fee split:
 1. Add a wrapper contract that would support splitting + unwrapping WRBTC to RBTC automatically. This was not chosen because it is an inelegant architectural design that would add complexity and cost due to the addition of another smart contract.  
-2. Split all fees and leave LPs to manually unwrap WRBTC to RBTC themselves. This was not chosen because it would introduce more complexity to the Sovryn frontend and create an inconvenience for LPs.  
+2. Split all fees and leave traders to manually unwrap WRBTC to RBTC themselves. This was not chosen because it would introduce more complexity to the Sovryn frontend and create an inconvenience for traders.  
 3. Delay the fee split implementation until a change to the AMM smart contract is ready that would allow all fees to be split, including automatically splitting off RBTC. This was not chosen because there is a partial solution available that supports a fee split now, so it doesn't make sense to delay for a more complete implementation.  
 
 ## Running the numbers
