@@ -1,0 +1,44 @@
+---
+SIP: 0034
+Title: Completion of SIP-0015 and Additional Release of SOV
+Author: Armando
+Status: Ready to vote
+Track: Treasury
+Created: 2021-10-25
+---
+
+# SIP-0034: Completion of SIP-0015 and Additional Release of SOV
+
+
+This SIP proposes the transfer of SOV from the Adoption Fund, Development Fund and GoverorVaultOwner to the Exchequer multisig.
+
+## History of SOV transfers:
+
+- SIP-0015: Sovryn Treasury Management (link provided [here](https://github.com/DistributedCollective/SIPS/blob/main/SIP-0015.md)) approved an operating budget of 5,639,130.56 SOV to be made available to the Exchequer Multisig.
+
+- SIP-0029: Transfer of SOV Pursuant to SIP-0015 (link provided [here](https://github.com/DistributedCollective/SIPS/blob/main/SIP-0029.md)) facilitated the transfer of 1,050,000 SOV from the GovernorVaultAdmin contract, to the Exchequer Multisig.
+
+## This SIP proposes to facilitate the following:
+
+1. The transfer of the additional 4,589,130.56 SOV previously approved in SIP-0015, to the Exchequer multisig.
+2. The transfer of SOV that is currently liquid for the Adoption Fund, Development Fund and GovernorVaultOwner to the Exchequer, which constitute a total of 13,085,263.33 SOV, which includes an amount of 4,589,130.56 SOV (previously approved by SIP-0015 but not transferred pursuant to SIP-0029).
+
+This proposed transfer is needed in order to facilitate upcoming SOV expenses required for the purposes of development and adoption of the Sovryn protocol.
+
+## SOV Expenses to date:
+
+To date the Exchequer has deployed a total of 3,309,836.54 SOV for the purposes of further development of the Sovryn protocol. The breakdown of these expenses is available [here](https://docsend.com/view/6nh9nb6p2cinzv9w).
+
+## Resolved:
+
+To transfer the following SOV to the Exchequer multisig:
+
+| **SOV Pool** | **SOV to be Transferred** | **Contract Address** |
+|--------------------------|-----------------|-----------------|
+| Development Fund | 2,231,626.08 | 0x617866cC4a089c3653ddC31a618b078291839AeB |
+| Adoption Fund | 9,925,930.64 | 0x0f31cfd6aAb4d378668Ad74DeFa89d3f4DB26633 |
+| GovernorVaultOwner | 927,706.61 | 0x05f4f068DF59a5aA7911f57cE4f41ebFBcB8E247 |
+| **Total SOV** | **13,085,263.33** | |
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
