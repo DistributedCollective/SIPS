@@ -1,5 +1,5 @@
 ---
-SIP: 0034
+SIP: 34
 Title: Completion of SIP-0015 and Additional Release of SOV
 Author: Armando
 Status: Ready to vote
