@@ -1,5 +1,5 @@
 ---
-SIP: XX
+SIP: 35
 Title: Origins as a Subprotocol
 Author: Shebin John (@remedcu)
 Status: Ready to vote
@@ -7,7 +7,7 @@ Track: Origins
 Created: 2021-10-31
 ---
 
-# SIP-XX: Origins as a Subprotocol
+# SIP-35: Origins as a Subprotocol
 
 ## Introduction
 
