@@ -39,25 +39,25 @@ The bonding curve inspiration is taken from the [forum post](https://forum.sovry
 
 ## How is this bullish for SOV?
 
-Origins will create a new way to use SOV as a coordination token to develop the Sovryn protocol further, provide more governance capability and introduce new projects that grow the system. When the Origins platform launches subprotocols, they will frequently have their own governance token turning bitocracy to governance platform and creating new ways to use SOV. All this will allow the Sovryn protocol to scale, and at the same time, reduce the need for all decisions to pass through the SOV Bitocracy - which will become the highest layer of governance.
+Origins will create a new way to use SOV as a coordination token to develop the Sovryn protocol further, provide more governance capability and introduce new projects that grow the system. When the Origins platform launches subprotocols, they will frequently have their own governance token, turning Bitocracy into a governance platform and creating new ways to use SOV. All this will allow the Sovryn protocol to scale, and at the same time, reduce the need for all decisions to pass through the SOV Bitocracy - which will become the highest layer of governance.
 
-## Sovryn Sub Protocol Launch on Origins
+## Sovryn Subprotocol Launch on Origins
 
-There will be multiple sub-protocols from Sovryn coming in the future. And as an added advantage, all the sub-protocols of Sovryn will not pay any mandatory fee for listing in Origins.
+There will be multiple subprotocols from Sovryn coming in the future. And as an added advantage, all the subprotocols of Sovryn will not pay any mandatory fee for listing in Origins.
 
 ## Process for Project Owners
 
-These are the Steps ideally a project should follow:
+These are the steps a project should ideally follow:
 
-1. The project wishing to list on Origins should contact the Origins Team for guidance and to get any help they require to write an OIP which could have a good chance to get accepted by the Community. This is an optional step, but one highly recommended.
-2. The concerned team then needs to make a post in the Forum, with the relevant draft OIP, Tokenomics, and any other relevant data.
+1. The project wishing to list on Origins should contact the Origins Team for guidance and to get any help they require to write an OGP which could have a good chance to get accepted by the Community. This is an optional step, but one highly recommended.
+2. The concerned team then needs to make a post in the Forum, with the relevant draft OGP, Tokenomics, and any other relevant data.
 3. The community will provide constructive criticism and present their views. It is recommended to be highly active in the forum at this time.
 4. After a certain period, the Project Team can create a proposal in the Origins Governance and let the OG Stakers decide.
 5. If the vote is positive, the project gets listed.
 
 ## Proposed Initial Origins Revenue Distribution
 
-The revenue earned from origins is proposed to be divided as below:
+The revenue earned from Origins is proposed to be divided as below:
 
 - 20% of the revenue goes to SOV Stakers through Staking Reward
 - 10% of the revenue goes to buy OG from the Bonding Curve and then burning bought OG Tokens to increase the reserve and make OG Deflationary.
@@ -66,13 +66,13 @@ The revenue earned from origins is proposed to be divided as below:
 
 ## Tokenomics
 
-You can find the detailed version of this Tokenomics [here](https://docs.google.com/spreadsheets/d/1N3XcUFnAWSCPzUIeImZREAifrn30Vo2xN3XHu70ToxY/).
+You can find the detailed version of this tokenomics [here](https://docs.google.com/spreadsheets/d/1N3XcUFnAWSCPzUIeImZREAifrn30Vo2xN3XHu70ToxY/).
 
 All the tokens have their vesting/locked schedule with unlocking & receiver party details.
 
 ## Token Sale
 
-Token Sale will happen in different rounds, with varying amounts of tokens, investment limits. For Ex: There will be a safe listing process for Sovryn Stakers, which is yet to be defined.
+Token Sale will happen in different rounds, with varying amounts of tokens, investment limits. For Ex: There will be a vote weight based process for SOV Stakers, which is yet to be defined.
 
 ### Early Funders
 
@@ -85,11 +85,11 @@ The Early Funders token allocation (approximately 20%) is divided thusly:
 |||||| **Total** | $5.42 Million |
 |
 
-This will, in total, raise 5.42 Million.
+This will, in total, raise $5.42 Million (USD).
 
-The SOV raised in the Early Funders round will be primarily used for the  Origins Bonding Curve.
+The SOV raised in the Early Funders round will be primarily used for the  Origins Bonding Curve reserves.
 
-The Stablecoin raised in the Early Funders round will be used by the  Origins Treasury.
+The stablecoin raised in the Early Funders round will be used by the  Origins Treasury.
 
 ### Programmatic Sale
 
@@ -101,18 +101,18 @@ The Programmatic Sale token allocation is this way:
 |||| **Total** | $5.1 Million |
 |
 
-The SOV raised by Programmatic Sale will be primarily used for the  Origins Bonding Curve.
+The SOV raised by Programmatic Sale will be primarily used for the Origins Bonding Curve reserves.
 
 ## Budget
 
-The anticipated budget for one year is around $2 Million, and once TGE occurs, it will require an OIP (Origins Improvement Proposal) through the Origins Bitocracy.
+The anticipated budget for one year is around $2 Million, and once TGE occurs, it will require an OGP (Origins Governance Proposal) through the Origins Bitocracy.
 
 ## Proposal
 
 In general, the mission for this SIP is to get the below things:
 
 - Approve the Origins as a subprotocol.
-- Ask the Sovryn Treasury (Exchequer) for 220K SOV in exchange for 40% of the OG Tokens solely used in the Origins <> SOV Bonding Curve.
+- Ask the Sovryn Treasury (Exchequer) for 220K SOV in exchange for 40% of the OG Tokens, solely to be used as reserves in the OG <> SOV Bonding Curve.
 
 ## Links
 
