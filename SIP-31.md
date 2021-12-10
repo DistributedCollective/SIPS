@@ -1,5 +1,5 @@
 ---
-SIP: 0031
+SIP: "0031"
 Title: Splitting AMM fees with stakers
 Author: cowsant (@cwsnt), John Light (@john-light), Ororo (@ororopickpocket)  
 Status: Ready for vote
