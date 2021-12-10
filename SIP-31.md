@@ -1,5 +1,5 @@
 ---
-SIP: 31
+SIP: 0031
 Title: Splitting AMM fees with stakers
 Author: cowsant (@cwsnt), John Light (@john-light), Ororo (@ororopickpocket)  
 Status: Ready for vote
@@ -7,7 +7,7 @@ Track: Contract
 Created: 2021-09-07
 ---
 
-# SIP-31: Splitting AMM fees with stakers
+# SIP-0031: Splitting AMM fees with stakers
 
 ## Description
 
