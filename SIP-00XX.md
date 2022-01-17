@@ -74,7 +74,7 @@ For example - an SOV Staker contributing to an Origins sale with a $5,000 alloca
 A part of the token supply will be used entirely for creating an AMM pool for OG in Sovryn. Any reward received as an LP reward with this amount will be used again to incentivize the same AMM pool.
 
 ### Presale & Community Sale
-As the Presale and community sales have been significantly reduced, we need to overcome the issue of people needing to rush to get into the sale. The Pre Sale & Community Sale will be a pool-based sale system to solve this. For example, if the amount to be raised is $10K, and a total of $20K was raised, everyone will be refunded half of their deposit, and everyone will get 50% of their token allocation on a pro-rata basis.
+As the Presale and community sales have been significantly reduced, we need to overcome the issue of people needing to rush to get into the sale. The Presale & Community Sale will be a pool-based sale system to solve this. For example, if the amount to be raised is $10K, and a total of $20K was raised, everyone will be refunded half of their deposit, and everyone will get 50% of their token allocation on a pro-rata basis.
 
 This ensures that all the people get an allocation, whether they were the first or the last. As well as allowing all participants to purchase at the same price. This helps the protocol as well to keep it as distributed as possible.
 
