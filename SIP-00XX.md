@@ -68,7 +68,7 @@ SOV Stakers who believe in the OG project and wish to support it now have a sign
 - A more significant % of rewards to SOV Stakers that support the Origins Launchpad
 - OG tokens are airdropped to active SOV Stakers.
 
-For example - an SOV Staker contributing to an origins sale with a $5,000 allocation will be eligible to receive about $500 back in OG tokens as rewards if 10% is the decided reward. Rewards will be based on the amount raised on the platform - a higher raise will have a higher reward pool. 
+For example - an SOV Staker contributing to an Origins sale with a $5,000 allocation will be eligible to receive about $500 back in OG tokens as rewards if 10% is the decided reward. Rewards will be based on the amount raised on the platform - a higher raise will have a higher reward pool. 
 
 ### Sovryn AMM
 A part of the token supply will be used entirely for creating an AMM pool for OG in Sovryn. Any reward received as an LP reward with this amount will be used again to incentivize the same AMM pool.
