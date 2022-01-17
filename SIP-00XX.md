@@ -79,7 +79,7 @@ As the Presale and community sales have been significantly reduced, we need to o
 This ensures that all the people get an allocation, whether they were the first or the last. As well as allowing all participants to purchase at the same price. This helps the protocol as well to keep it as distributed as possible.
 
 ### Liquid Fund & Future Fund
-A part of the token supply is divided into the Liquid Fund and Future Fund. Origins Treasury will handle the Liquid Fund, and the Future Fund will be used per Bitocracy for any future requirements deemed necessary by the community.
+A part of the token supply is divided into the Liquid Fund and Future Fund. Origins Treasury will handle the Liquid Fund, and the Future Fund will be used per OG Bitocracy for any future requirements deemed necessary by the community.
 
 LP Rewards, Community Incentive Programs, Development, Ecosystem and Adoption needs, etc will be funded using the Liquid Fund for the foreseeable future.
 
