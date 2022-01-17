@@ -49,7 +49,7 @@ Thus, in total, Sovryn will be receiving 24.65% of the revenue from Origins.
 Also, as new projects are introduced in the RSK ecosystem, more tokens will be listed in the Sovryn AMM, thus making more trades, creating more revenue from AMM fees.
 
 ## Proposed Initial Origins Revenue Distribution
-The revenue earned from origins is proposed to be divided as below:
+The revenue earned from Origins is proposed to be divided as below:
 
 - 20% of the revenue goes to SOV Stakers through Staking Reward
 - 10% of the revenue goes to buying OG from the AMM for Community Incentive Programs.
