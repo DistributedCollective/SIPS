@@ -30,7 +30,7 @@ Given current market conditions and the experimental nature of this mechanism, i
 The unfortunate fact in this market is that a successful launch can add a lot of weight to early project adoption - and a failed launch can significantly hinder this adoption. As a launchpad, our three main metrics of success are our community, our ability to get marketing reach, and our ability to execute on projects that wish to launch with us. Simplifying our go-to-market and making it more efficient and easy to understand will significantly improve points 1 and 2, which will enhance the launch success of Origins itself and subsequent launchpad projects.
 
 ### Third - UX
-The UI to make using bonding curve + sov-bonded governance is still immature, and this can lead to a bad user experience - so while sov-bonded tokens could use this methodology for the future, it may be too soon to risk it for OG - given the short time period, we have before launching. 
+The UI to make use of the bonding curve + SOV-bonded governance is still immature, and this can lead to a bad user experience. So while SOV-bonded tokens could use this methodology for the future, it may be too soon to risk it for OG given the short time period, we have before launching. 
 
 ## The advantage for SOV token holders &amp; stakers
 
