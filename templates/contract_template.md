@@ -1,5 +1,5 @@
 ---
-SIP: N/A
+SIP: 'N/A'
 Title: Title
 Author: Name (GitHub username)
 Status: Draft
