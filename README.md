@@ -85,10 +85,11 @@ After you have asked the Sovryn community whether an idea has any chance of supp
 **Templates**  
 Below is a list of SIP templates for each track. Copy the template for the track your SIP is in, fill it out, and submit the pull request with your SIP for review. Sections marked as “required” in the template MUST be completed. Note that all SIPs MUST be licensed CC-0.
 
-* [Contract](../templates/contract_template.md)  
-* [Issuance](../templates/issuance_template.md)  
-* [Proclamation](../templates/proclamation_template.md)  
-* [Treasury](../templates/treasury_template.md)  
+* [Contract](/templates/contract_template.md)  
+* [Issuance](/templates/issuance_template.md)  
+* [Parameter](/templates/parameter_template.md)
+* [Proclamation](/templates/proclamation_template.md)  
+* [Treasury](/templates/treasury_template.md)  
 
 ### Stage IV: Review Periods
 After a SIP has been submitted as a draft pull request to the SIPs repo, it SHOULD undergo three review periods:
