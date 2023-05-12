@@ -1,5 +1,5 @@
 ---
-SIP: 'X'
+SIP: '0062'
 Title: Zero Fee Floor Update, May 12
 Author: Edan Yago (@YagoBit)
 Status: Ready for vote
@@ -7,7 +7,7 @@ Track: Contract
 Created: 2023-05-12
 ---
 
-# SIP-X: Zero Fee Floor Update, May 12
+# SIP-0062: Zero Fee Floor Update, May 12
 
 ## Background:
 Following Zero Governance call held on May 10’th  - there was clear consensus for the following recommendation to Bitocracy:
