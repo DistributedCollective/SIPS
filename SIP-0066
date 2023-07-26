@@ -1,0 +1,26 @@
+---
+SIP: '0066'
+Title: Zero Borrowing Fees Update, July 26
+Author: John Light (@john-light), Ororo Monroe (@ororopickpocket), Tyrone Johnson (@tjcloa)
+Status: Draft
+Track: Contract
+Created: 2023-07-26
+---
+
+# SIP-0059: Zero Borrowing Fees Update: July 26
+
+## Background:
+On July 26th, 2023, the community held the Community Governance Meeting. The recording and subsequent conversation can be found [here](https://www.youtube.com/watch?v=[TBD). 
+The main subject discussed was [TBD]
+
+## Resolved:
+  Increase the Origination fee - Base: [TBD]; Max: [TBD]
+
+## Code changes:
+
+Update BORROWING_FEE_FLOOR from 5% to [TBD]  
+Update MAX_BORROWING_FEE from 7.5% to [TBD]  
+Remain REDEMPTION_FEE_FLOOR at 1.9% 
+
+## License:
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
