@@ -7,7 +7,7 @@ Track: Contract
 Created: 2022-04-21
 ---
 
-# SIP-0046: Transferring ownership of Sovryn contracts (Part 1)
+# SIP-0046: Transferring ownership of Sovryn contracts (Part 2)
 
 ## Description  
 
