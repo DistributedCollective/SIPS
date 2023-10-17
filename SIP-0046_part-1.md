@@ -1,13 +1,13 @@
 ---
 SIP: '0046'
 Title: Transferring ownership of Sovryn contracts
-Author: John Light (@john-light), Ororo (@ororopickpocket)
+Author: cowsant (@cwsnt), John Light (@john-light), Ororo (@ororopickpocket)
 Status: Draft
 Track: Contract
 Created: 2022-04-21
 ---
 
-# SIP-0046: Transferring ownership of Sovryn contracts  
+# SIP-0046: Transferring ownership of Sovryn contracts (Part 1)
 
 ## Description  
 
@@ -27,7 +27,9 @@ If approved, this proposal will result in an on-chain state change transferring 
 | oracleWhitelist       | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
 | rbtcWrapperProxy      | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
 
-Furthermore, this proposal will result in a signal from SOV stakers that they are willing and ready to accept the owner and/or adminstrator role in the following Sovryn smart contracts, to be transferred by the Exchequer Multisig no later than `2022-XX-XX 23:59:59 UTC`:
+Note that these transfers will need to be approved in four different SIP votes, of which this proposal is only one part. All four proposals will need to be approved to effectuate the above changes.
+
+Furthermore, this proposal will result in a signal from SOV stakers that they are willing and ready to accept the owner and/or adminstrator role in the following Sovryn smart contracts, to be transferred by the Exchequer Multisig no later than `2023-10-31 23:59:59 UTC`:
 
 |	Category   | Contract name	         | Role  | New governor                                                      |
 | ---------- |:----------------------:|:-----:|:-----------------------------------------------------------------:|
@@ -65,6 +67,10 @@ This mode of operation has worked well enough for the project during its early s
 To mitigate risks to Exchequer Multisig keyholders and to the Sovryn protocol and its users, we propose transferring ownership and administration of all Sovryn contracts currently owned by the Exchequer Multisig to either the TimelockOwner or TimelockAdmin contract, as specified in the tables in the `Description` section above. This will put the contracts under the control of SOV stakers, increasing the decentralization and censorship resistance of these contracts. After the governor roles are transferred to SOV stakers, all proposed smart contract upgrades and parameter changes will have to go through a 24-hour voting period and up to 48-hour timelock, giving Sovryn stakers and users up to 72 hours to react to any changes they might disagree with.
 
 Approval of this SIP will only result in the onchain transfer of the owner/administrator role in the AMM contracts. No SIP is needed to approve the transfer of governance roles in the other Sovryn contracts. However to ensure alignment with and readiness from SOV stakers, we are also asking in this proposal for SOV stakers to signal their willingness to accept governance responsibilities in all of the other Sovryn smart contracts too.
+
+## Implementation
+
+https://github.com/DistributedCollective/Sovryn-smart-contracts/pull/450
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
