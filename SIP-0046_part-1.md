@@ -1,6 +1,6 @@
 ---
 SIP: '0046'
-Title: Transferring ownership of Sovryn contracts
+Title: Transferring ownership of Sovryn contracts (Part 1)
 Author: cowsant (@cwsnt), John Light (@john-light), Ororo (@ororopickpocket)
 Status: Draft
 Track: Contract
