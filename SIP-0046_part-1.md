@@ -17,7 +17,7 @@ If approved, this proposal will result in an on-chain state change transferring 
 |:------------------------------------:|:------------------------------------------------------------:|
 | SovrynSwapNetwork                    | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
 | SwapSettings                         | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| All v1 oracles; except DLLR and Mynt | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
+| All v1 oracles; except DLLR and MYNT | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
 
 Furthermore, this proposal will result in a signal from SOV stakers that they are willing and ready to accept the owner and/or adminstrator role in the following Sovryn smart contracts, to be transferred by the Exchequer Multisig no later than `2023-10-31 23:59:59 UTC`:
 
