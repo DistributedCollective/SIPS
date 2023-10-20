@@ -11,23 +11,13 @@ Created: 2022-04-21
 
 ## Description  
 
-If approved, this proposal will result in an on-chain state change transferring the administrator role in the Sovryn AMM smart contracts from the Exchequer Multisig to the timelock contracts governed by SOV stakers. The exact transfer details are as follows:
+If approved, this proposal will result in an on-chain state change transferring the owner role in the Sovryn AMM smart contracts from the Exchequer Multisig to the timelock contracts governed by SOV stakers. Note that this is Part 1 of a four-part SIP. All four proposals will need to be approved to effectuate the complete set of changes. The exact transfer details for this part are as follows:
 
-| Contract name	        | New governor                                                 |
-|:---------------------:|:------------------------------------------------------------:|
-| SovrynSwapNetwork     | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| SwapSettings          | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| All converters        | TimelockOwner (`0x967c84b731679E36A344002b8E3CE50620A7F69f`) |
-| All oracles           | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| ContractRegistry      | TimelockOwner (`0x967c84b731679E36A344002b8E3CE50620A7F69f`) |
-| ConverterFactory      | TimelockOwner (`0x967c84b731679E36A344002b8E3CE50620A7F69f`) |
-| ConversionPathFinder  | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| ConverterUpgrader     | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| converterRegistryData | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| oracleWhitelist       | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-| rbtcWrapperProxy      | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
-
-Note that these transfers will need to be approved in four different SIP votes, of which this proposal is only one part. All four proposals will need to be approved to effectuate the above changes.
+| Contract name	                       | New governor                                                 |
+|:------------------------------------:|:------------------------------------------------------------:|
+| SovrynSwapNetwork                    | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
+| SwapSettings                         | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
+| All v1 oracles; except DLLR and Mynt | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
 
 Furthermore, this proposal will result in a signal from SOV stakers that they are willing and ready to accept the owner and/or adminstrator role in the following Sovryn smart contracts, to be transferred by the Exchequer Multisig no later than `2023-10-31 23:59:59 UTC`:
 
@@ -46,7 +36,7 @@ Furthermore, this proposal will result in a signal from SOV stakers that they ar
 |            |	StakingRewards         | Owner	| TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`)      |
 |            | Vesting Registry       | Owner | TimelockOwner (`0x967c84b731679E36A344002b8E3CE50620A7F69f`)      |
 |            | Vesting Registry       | Admin | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`)      |
-|            | Vesting Registry       | Admin | Exchequer Multisig (`0x924f5ad34698Fd20c90Fe5D5A8A0abd3b42dc711`) |
+|            | Vesting Registry       | Admin | Exchequer Multisig (`0x9737a5387768353D8C86849c63a46F492e7042CB`) |
 | Oracles    |	                       |      	|                                                                   |
 |            |	BPro Price Feed        | Owner	| TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`)      |
 |            |	MoC Price Feed         | Owner	| TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`)      |
