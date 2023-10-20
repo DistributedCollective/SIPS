@@ -22,8 +22,6 @@ If approved, this proposal will result in an on-chain state change transferring 
 | oracleWhitelist       | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
 | rbtcWrapperProxy      | TimelockAdmin (`0x6c94c8aa97C08fC31fb06fbFDa90e1E09529FB13`) |
 
-Note that these transfers will need to be approved in four different SIP votes, of which this proposal is only one part. All four proposals will need to be approved to effectuate the above changes.
-
 Furthermore, this proposal will result in a signal from SOV stakers that they are willing and ready to accept the owner and/or adminstrator role in the following Sovryn smart contracts, to be transferred by the Exchequer Multisig no later than `2023-10-31 23:59:59 UTC`:
 
 |	Category   | Contract name	         | Role  | New governor                                                      |
