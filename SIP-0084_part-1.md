@@ -27,7 +27,7 @@ This approach provides flexibility to replace the fallback oracle with another r
 
 Note that this is Part 1 of a two-part SIP.  
 Both proposals will need to be approved to effectuate the complete set of changes.  
-The exact transfer details for this part are as follows.  
+The exact change details for this part are as follows.   
 
 If approved, this SIP will replace the WRBTC price oracle in the PriceFeeds contract used for the Lending protocol with the address of the new PriceFeedsMoC oracle contract that has the DummyFallbackOracle as the fallback price oracle.  
 
