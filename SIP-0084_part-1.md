@@ -21,9 +21,13 @@ The primary Money-on-Chain oracle, which is decentralized, has demonstrated robu
 Additionally, the price feed contract logic has been updated to include a stale price parameter.  
 This ensures that outdated prices are not used and transactions will revert.   
 The proposed technical solution involves replacing the RSK oracle with a "dummy oracle" that always returns a zero price and marks it as stale.  
-This approach provides flexibility to replace the fallback oracle with another reliable oracle compliant with the Chainlink interface if the community decides to do so in the future.  
+This approach provides flexibility to replace the fallback oracle with another reliable oracle compliant with the Chainlink interface if the community decides to do so in the future.   
 
 ## Proposed Changes  
+
+Note that this is Part 1 of a two-part SIP.  
+Both proposals will need to be approved to effectuate the complete set of changes.  
+The exact transfer details for this part are as follows.  
 
 If approved, this SIP will replace the WRBTC price oracle in the PriceFeeds contract used for the Lending protocol with the address of the new PriceFeedsMoC oracle contract that has the DummyFallbackOracle as the fallback price oracle.  
 
