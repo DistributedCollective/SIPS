@@ -1,13 +1,13 @@
 ---
 SIP: '0084'
-Title: Deactivate Fallback Price Oracle Contract
+Title: Deactivate Fallback Price Oracle Contract (Part 1)
 Author: Tyrone Johnson (@tjcloa)
 Status: Draft
 Track: Contract
 Created: 2024-11-20
 ---
 
-# SIP-0084: Deactivation of the Fallback Price Oracle Contract (Part 1)
+# SIP-0084: Deactivate Fallback Price Oracle Contract (Part 1)
 
 ## Description  
 
@@ -37,8 +37,8 @@ __Existing contracts__
 __New contracts__  
 | Contract                               | Address                                    |
 | -------------------------------------- | ------------------------------------------ |
-| MoC Price Feed                         | [TBD]   | 
-| Dummy Fallback Price Feed              | 0x16261C66D8D687600E5CbF7945986044A6569cBe | 
+| PriceFeedsMoC                          | [TBD]   | 
+| DummyFallbackOracle                    | 0x16261C66D8D687600E5CbF7945986044A6569cBe | 
 
 
 ## License
