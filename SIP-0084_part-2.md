@@ -27,7 +27,7 @@ This approach provides flexibility to replace the fallback oracle with another r
 
 Note that this is Part 2 of a two-part SIP.  
 Both proposals will need to be approved to effectuate the complete set of changes.  
-The exact transfer details for this part are as follows.  
+The exact change details for this part are as follows.  
 
 If approved, this SIP will upgrade the PriceFeed contract on Zero protocol and will replace the fallback oracle with the DummyFallbackOracle contract.      
 The new logic of the PriceFeed contract will revert on stale price, removes restriction on adding a dummy oracle that returns stale price and adds a new function to replace the primary oracle and the fallback oracle separately.  
