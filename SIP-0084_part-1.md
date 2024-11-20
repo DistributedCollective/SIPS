@@ -2,7 +2,7 @@
 SIP: '0084'
 Title: Deactivate Fallback Price Oracle Contract (Part 1)
 Author: Tyrone Johnson (@tjcloa)
-Status: Draft
+Status: Ready for vote
 Track: Contract
 Created: 2024-11-20
 ---
@@ -41,7 +41,7 @@ __Existing contracts__
 __New contracts__  
 | Contract                               | Address                                    |
 | -------------------------------------- | ------------------------------------------ |
-| PriceFeedsMoC                          | [TBD]   | 
+| PriceFeedsMoC                          | 0x50C53B463B67F2aF4c7B5b8E05643a39A0A4FDB9 | 
 | DummyFallbackOracle                    | 0x16261C66D8D687600E5CbF7945986044A6569cBe | 
 
 
