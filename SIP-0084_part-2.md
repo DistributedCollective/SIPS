@@ -2,7 +2,7 @@
 SIP: '0084'
 Title: Deactivate Fallback Price Oracle Contract (Part2)
 Author: Tyrone Johnson (@tjcloa)
-Status: Draft
+Status: Ready for vote
 Track: Contract
 Created: 2024-11-20
 ---
