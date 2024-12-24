@@ -2,7 +2,7 @@
 SIP: '0084'
 Title: Deactivate Fallback Price Oracle Contract (Part2)
 Author: Tyrone Johnson (@tjcloa)
-Status: Ready for vote
+Status: Approved
 Track: Contract
 Created: 2024-11-20
 ---
@@ -32,16 +32,16 @@ If approved, this SIP will upgrade the PriceFeed contract on Zero protocol and w
 
 
 __Existing contracts__  
-| Contract                               | Address                                    |
-| -------------------------------------- | ------------------------------------------ |
-| PriceFeed proxy                        | 0x6D1d9574d67e04cf35Fa1d916F763eDDae03b75d |
-| PriceFeeds logic                       | 0x1281ECfe66c9fA632Df1eB1eC19405C3b1bbaAf0 |
+| Contract         | Address                                    |
+| ---------------- | ------------------------------------------ |
+| PriceFeed proxy  | 0x6D1d9574d67e04cf35Fa1d916F763eDDae03b75d |
+| PriceFeeds logic | 0x1281ECfe66c9fA632Df1eB1eC19405C3b1bbaAf0 |
 
 __New contracts__  
-| Contract                               | Address                                    |
-| -------------------------------------- | ------------------------------------------ |
-| PriceFeeds logic                       | 0x867303dfCd696BE516f9C4023525F1107d903356 | 
-| DummyFallbackOracle                    | 0x16261C66D8D687600E5CbF7945986044A6569cBe | 
+| Contract            | Address                                    |
+| ------------------- | ------------------------------------------ |
+| PriceFeeds logic    | 0x867303dfCd696BE516f9C4023525F1107d903356 |
+| DummyFallbackOracle | 0x16261C66D8D687600E5CbF7945986044A6569cBe |
 
 
 ## License

@@ -2,7 +2,7 @@
 SIP: '0084'
 Title: Deactivate Fallback Price Oracle Contract (Part 1)
 Author: Tyrone Johnson (@tjcloa)
-Status: Ready for vote
+Status: Approved
 Track: Contract
 Created: 2024-11-20
 ---
@@ -33,16 +33,16 @@ If approved, this SIP will replace the WRBTC price oracle in the PriceFeeds cont
 
 
 __Existing contracts__  
-| Contract                               | Address                                    |
-| -------------------------------------- | ------------------------------------------ |
-| PriceFeedsMoC                          | 0x391fe8a92a7FC626A25F30E8c19B92bf8BE37FD3 |
-| PriceFeeds                             | 0x437AC62769f386b2d238409B7f0a7596d36506e4 |
+| Contract      | Address                                    |
+| ------------- | ------------------------------------------ |
+| PriceFeedsMoC | 0x391fe8a92a7FC626A25F30E8c19B92bf8BE37FD3 |
+| PriceFeeds    | 0x437AC62769f386b2d238409B7f0a7596d36506e4 |
 
 __New contracts__  
-| Contract                               | Address                                    |
-| -------------------------------------- | ------------------------------------------ |
-| PriceFeedsMoC                          | 0x50C53B463B67F2aF4c7B5b8E05643a39A0A4FDB9 | 
-| DummyFallbackOracle                    | 0x16261C66D8D687600E5CbF7945986044A6569cBe | 
+| Contract            | Address                                    |
+| ------------------- | ------------------------------------------ |
+| PriceFeedsMoC       | 0x50C53B463B67F2aF4c7B5b8E05643a39A0A4FDB9 |
+| DummyFallbackOracle | 0x16261C66D8D687600E5CbF7945986044A6569cBe |
 
 
 ## License
