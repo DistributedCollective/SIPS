@@ -1,0 +1,20 @@
+---
+SIP: '0086'
+Title: Zero and Mynt Bugs Fix
+Author: cowsant (@cwsnt) 
+Status: Draft
+Track: Other
+Created: 2024-12-24
+---
+
+# SIP-0086: Zero and Mynt Bugs Fix
+
+## Description  
+Zero Smart Contracts Upgrade (Apply Reentrancy Guard) & Mynt BasketManager Upgrade  - fix incorrect removing of the last basket item. 
+[TBD]
+
+## Details 
+[TBD]
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
